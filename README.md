@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Shukla</h1>
-<h3 align="center">Dog breed prediction</h3>
+<h3 align="center">Dog breed prediction DL project</h3>
 
 - 📫 How to reach me **garghrishav@gmail.com**
 
