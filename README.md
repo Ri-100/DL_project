@@ -17,4 +17,4 @@
 
 Steps to Perform - <br>
 1. Load the dataset from Kaggle. IMPORTANT <a href="https://www.kaggle.com/catherinehorng/dogbreedidfromcomp/download"> Download Data set from Here </a> approx 750mb.<br>
-2. 
+2. Data Augmentation
