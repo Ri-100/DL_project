@@ -19,7 +19,7 @@
 Steps to Perform - <br>
 1. Load the dataset from Kaggle. IMPORTANT <a href="https://www.kaggle.com/catherinehorng/dogbreedidfromcomp/download"> Download Data set from Here </a> approx 750mb.<br>
 2. Perform Resizing and Data Augmentation<br>
-3. ## Models<br>
+3. Models created <br>
    (i). CNN Model 1**: This model is a convolutional neural network designed specifically for dog breed prediction.<br>
    (ii). Different CNN Model 2**: Another CNN architecture but increased number of epochs.<br>
    (iii). Different CNN Model 3**: A variant of CNN architecture optimized for improved accuracy in dog breed classification by adding one-more layer.<br>
