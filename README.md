@@ -29,5 +29,7 @@ Steps to Perform - <br>
     - Inception Features<br>
     - Xception Features<br>
     - NASNet Features<br>
-    - Inception ResNet Features<br>
+    - Inception ResNet Features<br><br>
+    <b>The models were trained using a dataset of dog images. Please refer to the dataset documentation for information on how to obtain and preprocess the data.<b>
+
 
